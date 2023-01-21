@@ -35,11 +35,11 @@ body {
 }
 
 #power {
-    position: absolute;
-    top: 230px;
+    position: relative;
+    top: 130px;
+    right: 10px;
     color: grey;
     font-size: medium;
-    margin: 10px;
     
 }
 
@@ -57,7 +57,7 @@ body {
 #gameboy {
     position: relative;
     top: 335px;
-    left: 100px;
+    left: 20px;
     color: grey;
     font-size: xx-large;
     
@@ -66,7 +66,7 @@ body {
 #c {
     position: relative;
     top: 335px;
-    left: 105px;
+    left: 25px;
     color: red;
     font-size: xx-large;
 }
@@ -74,7 +74,7 @@ body {
 #o {
     position: relative;
     top: 335px;
-    left: 100px;
+    left: 20px;
     color: blue;
     font-size: x-large;
 }
@@ -82,7 +82,7 @@ body {
 #l {
     position: relative;
     top: 335px;
-    left: 95px;
+    left: 15px;
     color:greenyellow;
     font-size: xx-large;
 }
@@ -90,7 +90,7 @@ body {
 #oo {
     position: relative;
     top: 335px;
-    left: 90px;
+    left: 10px;
     color: yellow;
     font-size: x-large;
 }
@@ -98,9 +98,17 @@ body {
 #r {
     position: relative;
     top: 335px;
-    left: 85px; 
+    left: 5px; 
     color: blue;
     font-size: xx-large;
+}
+
+#luzpower {
+    position: relative;
+    top: 114px;
+    left: 10px;
+    color: red;
+    font-size: x-large;
 }
 
 /* Mitad de la consola */
