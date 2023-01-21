@@ -2,11 +2,11 @@ body {
     height: 1000px;
     width: 1000px;
     margin: auto;
-    display: flex;
+    /* display: flex; */
 }
 
 .consola {
-    display: flex;
+    /* display: flex; */
     background-color: yellow;
     margin: auto;
     height: 850px;
@@ -21,7 +21,7 @@ body {
 
 
 .top {
-    display: flex;
+    /* display: flex; */
     background: black;
     border: solid black 1px;
     height: 400px;
@@ -44,10 +44,10 @@ body {
 }
 
 .screen {
-    display: flex;
+    /* display: flex; */
     height: 250px;
-    width: 325px;  
-    margin: 60px 65px auto auto;
+    width: 300px;  
+    margin: 30px 80px auto auto;
     background: grey;
     border: solid black 1px;
     
@@ -55,59 +55,52 @@ body {
 }
 
 #gameboy {
-    position: absolute;
-    top: 58vh;
-    left: 40vw;
+    position: relative;
+    top: 335px;
+    left: 100px;
     color: grey;
-    display: flex;
-    align-items: center;
     font-size: xx-large;
     
 }
 
 #c {
-    position: absolute;
-    top: 380px;
-    right: 895px;
+    position: relative;
+    top: 335px;
+    left: 105px;
     color: red;
     font-size: xx-large;
 }
 
 #o {
-    position: absolute;
-    top: 388px;
-    right: 880px;
+    position: relative;
+    top: 335px;
+    left: 100px;
     color: blue;
     font-size: x-large;
 }
 
 #l {
-    position: absolute;
-    top: 380px;
-    right: 850px;
+    position: relative;
+    top: 335px;
+    left: 95px;
     color:greenyellow;
     font-size: xx-large;
 }
 
 #oo {
-    position: absolute;
-    top: 380px;
-    right: 850px;
+    position: relative;
+    top: 335px;
+    left: 90px;
     color: yellow;
     font-size: x-large;
 }
 
 #r {
-    position: absolute;
-    top: 380px;
-    right: 850px; 
+    position: relative;
+    top: 335px;
+    left: 85px; 
     color: blue;
     font-size: xx-large;
 }
 
 
-#algo {
-    position: absolute;
-    top: 10px;
-    color: grey;
-}
