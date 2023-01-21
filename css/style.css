@@ -1,0 +1,46 @@
+body {
+    margin: 20px;
+}
+
+.consola {
+    background-color: yellow;
+    margin: auto;
+    height: 850px;
+    width: 520px;
+    border-top-left-radius: 3%;
+    border-top-right-radius: 3%;
+    border-bottom-left-radius: 6%;
+    border-bottom-right-radius: 6%;
+    border: solid black 1px;
+    box-shadow: 20px 30px 30px rgba(0, 0, 0, 0.247);    
+}
+
+
+.top {
+    display: flex;
+    background: black;
+    border: solid black 1px;
+    height: 400px;
+    width: 469px;
+    margin: 25px;
+    border-top-left-radius: 2%;
+    border-top-right-radius: 2%;
+    border-bottom-left-radius: 6%;
+    border-bottom-right-radius: 6%;
+}
+
+.screen {
+    height: 250px;
+    width: 300px;    
+
+    margin: 60px auto auto auto ;
+    background: grey;
+    border: solid black 1px;
+    
+
+}
+
+#gameboy {
+    color: grey;
+}
+
