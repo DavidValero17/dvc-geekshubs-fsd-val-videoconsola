@@ -1,6 +1,6 @@
-# dvc-geekshubs-fsd-val-videoconsola
+# Proyecto videoconsola
 
-Ejercicio de videoconsola utilizando HTML & CSS.
+Este es el primer proyecto del bootcamp geeksHubs el cual consta de la realización de una videoconsola maquetandola con HTML & CSS.
 
 -----------
 
